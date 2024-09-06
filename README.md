@@ -1,4 +1,4 @@
-## Portal de Eventos Offshore
+## Portal de Eventos Offshore - Imersão Dev Com Google Gemini
 
 ### O que é?
 Este é um portal web simples que permite aos usuários pesquisarem por eventos offshore no Brasil. Ao digitar uma palavra-chave relacionada ao evento, o portal exibe uma lista de eventos relevantes.
@@ -40,7 +40,7 @@ Se tiver algma dúvida, pode  abrir uma issue aqui no github ou me mandar um ema
 
 
 
-## Offshore Events Portal
+## Offshore Events Portal - Dev Immersion With Google Gemini
 
 ### What is it?
 This is a simple web portal that allows users to search for offshore events in Brazil. By typing a keyword related to the event, the portal displays a list of relevant events.
